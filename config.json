@@ -1,0 +1,7 @@
+{
+  "prefix": "!",
+  "owners": ["YOUR_ID_HERE"],
+  "supportServer": "https://discord.gg/yourserver",
+  "botInvite": "https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot&permissions=8",
+  "defaultCooldown": 3
+}
